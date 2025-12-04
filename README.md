@@ -137,21 +137,12 @@ El Departamento de TI enfrenta dos desafíos críticos:
 
 ## Instalación
 
-### 1. Descargar e instalar
+### Descargar e instalar
 
 1. Visita el sitio web oficial de NetGuard Solutions.
 2. Ve a la sección **Descargas**.
 3. Selecciona el instalador según tu sistema operativo.
 4. Ejecuta el instalador y sigue las instrucciones.
-
-### 2. Instalación desde línea de comandos
-
-Descarga del paquete (Linux)
-wget https://www.netguardsolutions.com/downloads/netguardpro-1.0-linux.run
-chmod +x netguardpro-1.0-linux.run
-sudo ./netguardpro-1.0-linux.run
-
-text
 
 ---
 
@@ -172,8 +163,6 @@ netguard-pro start
 
 Acceder al panel
 http://localhost:8080
-
-text
 
 En el panel podrás ver:
 
@@ -265,5 +254,6 @@ Para más detalles, consulta tu contrato de suscripción.
 ---
 
 ## Créditos / Autores
+
 
 NetGuard Pro es desarrollado y mantenido por NetGuard Solutions.
